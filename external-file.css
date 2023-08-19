@@ -1,0 +1,12 @@
+h1, h2, h3,h4 {color: blue; text-align: center;}
+body {font-family: Arial, Helvetica, sans-serif;
+background-color: palevioletred; padding: 20px;}
+html {border-style: solid; border-color: black;padding: 20px; box-sizing: border-box;} *, *::before, *::after {box-sizing: inherit;}
+h3 {margin-right: 1100px;}
+.four {border: 5px solid black; padding: 10px; margin-left: 0; margin-right: 900px;}
+ol {border: 5px solid blue; padding: 20px; width: 500px;}
+img {display: block; margin: auto; height: auto; width: 700px;}
+.flexbox {border: 5px solid black; display: flex; justify-content: center;}
+.one {border: 5px solid red;}
+.two {border: 5px solid blue;}
+.three {border: 5px solid yellow;}
